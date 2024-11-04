@@ -24,7 +24,7 @@ with Elasticsearch, Natural Language Process.
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/asl%C4%B1nur-topcu-871023253](https://www.linkedin.com/in/yusuf-%C5%9Fa%C5%9F-736227225/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/yusuf-%C5%9Fa%C5%9F-736227225/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50"/>
   </a>
 </p>
