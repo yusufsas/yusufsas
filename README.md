@@ -8,6 +8,16 @@
 
 -  I'm always open to collaborations or discussions, so feel free to reach out: **yusufsas3444@gmail.com**
 
+  <h1>
+   I am a computer enginnering student who is hard-working, ambitious and
+passionate about computer science. I am interested in Web Development,
+Artificial Intelligence and Data Science, I use currently Numpy, Pandas,
+Beautifulsoup, OpenCv and the other python libraries. I have taken parts of
+Django and Asp.Net projects. I am familiar with general web architecture
+(request-response relations, Restful Apis, websocets). I have experienced
+with Elasticsearch, Natural Language Process.
+
+  </h1>
 
 
 <h3 align="center">Connect with Me:</h3>
