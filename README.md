@@ -30,8 +30,9 @@ with Elasticsearch, Natural Language Process.
 </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufsas&text_color=ffff&title_color=ff7300&icon_color=ff7300&show_icons=true&theme=transparent&hide_border=false&border_color=ffffff&locale=en" alt="furkankarlidag" height="180"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufsas&text_color=ffff&title_color=ff7300&icon_color=ff7300&show_icons=true&theme=transparent&locale=en&hide_border=false&border_color=ffffff&layout=compact" alt="yusufsas" height="180" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufsas&text_color=ffff&title_color=ff7300&icon_color=ff7300&show_icons=true&theme=transparent&hide_border=false&border_color=ffffff&locale=en" alt="furkankarlidag" height="180"/>></p>
 # Tech Stack
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufsas&text_color=ffff&title_color=ff7300&icon_color=ff7300&show_icons=true&theme=transparent&locale=en&hide_border=false&border_color=ffffff&layout=compact" alt="yusufsas" height="180" /
 
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/dotnet-02569B?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -47,17 +48,6 @@ with Elasticsearch, Natural Language Process.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 
 
