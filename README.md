@@ -1,11 +1,10 @@
-## Hi there 👋
- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+<h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF700&width=435&lines=Hi+I+am+Yusuf+SAS" alt="Typing SVG" /></a>
+ 
+</h1>
   
- <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
-   
-       
-    </style>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=1000&size=40&letterSpacing=&pause=1000&color=03FF08&vCenter=true&width=500&height=100&lines=Yusuf+SAS" alt="Typing SVG" /></a>
 <h1>merhabalar</h1>
 **yusufsas/yusufsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,8 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 
-   
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 
