@@ -6,7 +6,7 @@
 </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1BF700&vCenter=true&multiline=true&width=2035&height=100&lines=Full-Stack+Development+%7C+Computer+Vision+%7C+Large+Language+Process+%7C+Data+Science" alt="Typing SVG" /></a>
 **yusufsas/yusufsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 👩🏻‍💻 I'm always open to collaborations or discussions, so feel free to reach out: **yusufsas3444@gmail.com**
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
