@@ -5,9 +5,36 @@
  
 </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1BF700&vCenter=true&multiline=true&width=2035&height=100&lines=Full-Stack+Development+%7C+Computer+Vision+%7C+Large+Language+Process+%7C+Data+Science" alt="Typing SVG" /></a>
-**yusufsas/yusufsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👩🏻‍💻 I'm always open to collaborations or discussions, so feel free to reach out: **yusufsas3444@gmail.com**
-Here are some ideas to get you started:
+
+-  I'm always open to collaborations or discussions, so feel free to reach out: **yusufsas3444@gmail.com**
+
+
+
+<h3 align="center">Connect with Me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/asl%C4%B1nur-topcu-871023253](https://www.linkedin.com/in/yusuf-%C5%9Fa%C5%9F-736227225/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50"/>
+  </a>
+</p>
+
+
+# Tech Stack
+
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.Net-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
