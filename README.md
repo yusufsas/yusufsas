@@ -30,8 +30,8 @@ with Elasticsearch, Natural Language Process.
 </p>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufsas&text_color=ffff&title_color=ff7300&icon_color=ff7300&show_icons=true&theme=transparent&hide_border=false&border_color=ffffff&locale=en" alt="furkankarlidag" height="180"/>><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufsas&text_color=ffff&title_color=ff7300&icon_color=ff7300&show_icons=true&theme=transparent&locale=en&hide_border=false&border_color=ffffff&layout=compact" alt="yusufsas" height="180" /</p>
-# Tech Stack
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufsas&text_color=ffff&title_color=ff7300&icon_color=ff7300&show_icons=true&theme=transparent&hide_border=false&border_color=ffffff&locale=en" alt="furkankarlidag" height="180"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufsas&text_color=ffff&title_color=ff7300&icon_color=ff7300&show_icons=true&theme=transparent&locale=en&hide_border=false&border_color=ffffff&layout=compact" alt="yusufsas" height="180" /</p>
+
 
 
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
