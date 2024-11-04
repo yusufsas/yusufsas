@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=1000&size=40&letterSpacing=&pause=1000&color=03FF08&vCenter=true&width=500&height=100&lines=Yusuf+SAS" alt="Typing SVG" /></a>
+
 **yusufsas/yusufsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
