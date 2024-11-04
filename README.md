@@ -1,7 +1,7 @@
 
 
 <h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=1BF700&multiline=true&width=635&height=200&lines=Hi+I+am+Yusuf+SAS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=1BF700&vCenter=true&multiline=true&width=635&height=100&lines=Hi+I+am+Yusuf+SAS" alt="Typing SVG" /></a>
  
 </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1BF700&vCenter=true&multiline=true&width=635&height=300&lines=Computer+Vision;Large+Language+Process;Data+Science;Full+Stack+Development" alt="Typing SVG" /></a>
