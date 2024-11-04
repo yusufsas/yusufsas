@@ -4,8 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=1BF700&vCenter=true&multiline=true&width=635&height=100&lines=Hi+I+am+Yusuf+SAS" alt="Typing SVG" /></a>
  
 </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1BF700&vCenter=true&multiline=true&width=635&height=300&lines=Computer+Vision;Large+Language+Process;Data+Science;Full+Stack+Development" alt="Typing SVG" /></a>
-  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1BF700&center=true&vCenter=true&multiline=true&width=2035&height=100&lines=Full-Stack+Development+%7C+Computer+Vision+%7C+Large+Language+Process+%7C+Data+Science" alt="Typing SVG" /></a>
 <h1>merhabalar</h1>
 **yusufsas/yusufsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
