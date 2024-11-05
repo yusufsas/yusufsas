@@ -18,8 +18,10 @@ Django and Asp.Net projects. I am familiar with general web architecture
 with Elasticsearch, Natural Language Process.
 
   </h1>
+<p align="center">
 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yusufsas&theme=nightowl&hide_border=true&border_radius=7" alt="GitHub Streak" /></a>
+</p>
 
 
 <h3 align="center">Connect with Me:</h3>
