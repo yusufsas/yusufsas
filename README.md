@@ -8,7 +8,7 @@
 
 -  I'm always open to collaborations or discussions, so feel free to reach out: **yusufsas3444@gmail.com**
 
-  <h1 style="color:red;">
+  <h1 style="color: red;">
    I am a computer enginner who is 
 passionate about computer science. I am interested in Web Development,
 Artificial Intelligence and Data Science, I use currently Numpy, Pandas,
